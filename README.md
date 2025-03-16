@@ -73,7 +73,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Author
 
-Your Name
+Sufyan Ali Khan
 
 ## License
 
